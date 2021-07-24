@@ -1,22 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>关于我</title>
-    <url>/2021/07/21/introduce/</url>
-    <content><![CDATA[<h2 id="个人介绍"><a href="#个人介绍" class="headerlink" title="个人介绍"></a>个人介绍</h2><p>现大学生，<a href="https://baike.baidu.com/item/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF">智能科学与技术</a> 专业。</p>
-<span id="more"></span>
-<p>准备考研中。</p>
-<p>认为年轻要多闯一闯，因此目前认为兴趣优先于热门职业选择。</p>
-<p>认为人要有足够的能力安身立命，避免做空想家，相信个人发展潜力与奋斗的价值。</p>
-<h2 id="关于博客"><a href="#关于博客" class="headerlink" title="关于博客"></a>关于博客</h2><p>基于 <a href="https://hexo.io/">Hexo</a> 搭建，部署在 <a href="https://pages.github.com/">GitHub Pages</a> 上。</p>
-<p>项目仓库 <a href="https://github.com/zhaoyebaii/zhaoyebaii.github.io">在这里</a>。</p>
-<p>主要分享学业与个人发展方面的内容。</p>
-]]></content>
-      <tags>
-        <tag>杂七杂八</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>krita 取色插件 Pigment.O 与 HSV 基础</title>
     <url>/2021/07/24/krita-color-management/</url>
     <content><![CDATA[<p>krita 可以使用插件 Pigment.O 强化对色彩的支持。</p>
@@ -37,6 +21,22 @@
       <tags>
         <tag>krita</tag>
         <tag>色彩</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>关于我</title>
+    <url>/2021/07/21/introduce/</url>
+    <content><![CDATA[<h2 id="个人介绍"><a href="#个人介绍" class="headerlink" title="个人介绍"></a>个人介绍</h2><p>现大学生，<a href="https://baike.baidu.com/item/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF">智能科学与技术</a> 专业。</p>
+<span id="more"></span>
+<p>准备考研中。</p>
+<p>认为年轻要多闯一闯，因此目前认为兴趣优先于热门职业选择。</p>
+<p>认为人要有足够的能力安身立命，避免做空想家，相信个人发展潜力与奋斗的价值。</p>
+<h2 id="关于博客"><a href="#关于博客" class="headerlink" title="关于博客"></a>关于博客</h2><p>基于 <a href="https://hexo.io/">Hexo</a> 搭建，部署在 <a href="https://pages.github.com/">GitHub Pages</a> 上。</p>
+<p>项目仓库 <a href="https://github.com/zhaoyebaii/zhaoyebaii.github.io">在这里</a>。</p>
+<p>主要分享学业与个人发展方面的内容。</p>
+]]></content>
+      <tags>
+        <tag>杂七杂八</tag>
       </tags>
   </entry>
 </search>
