@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>关于我</title>
+    <url>/2021/07/21/introduce/</url>
+    <content><![CDATA[<h2 id="个人介绍"><a href="#个人介绍" class="headerlink" title="个人介绍"></a>个人介绍</h2><p>现大学生，<a href="https://baike.baidu.com/item/%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E4%B8%8E%E6%8A%80%E6%9C%AF">智能科学与技术</a> 专业。</p>
+<p>准备考研中。</p>
+<p>认为年轻要多闯一闯，因此目前认为兴趣优先于热门职业选择。</p>
+<p>认为人要有足够的能力安身立命，避免做空想家，相信个人发展潜力与奋斗的价值。</p>
+<h2 id="关于博客"><a href="#关于博客" class="headerlink" title="关于博客"></a>关于博客</h2><p>基于 <a href="https://hexo.io/">Hexo</a> 搭建，部署在 <a href="https://pages.github.com/">GitHub Pages</a> 上。</p>
+<p>项目仓库 <a href="https://github.com/zhaoyebaii/zhaoyebaii.github.io">在这里</a>。</p>
+<p>主要分享学业与个人发展方面的内容。</p>
+]]></content>
+      <tags>
+        <tag>杂七杂八</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>krita 取色插件 Pigment.O 与颜色基础</title>
+    <url>/2021/07/24/krita-color-management/</url>
+    <content><![CDATA[<h2 id="Pigment-O"><a href="#Pigment-O" class="headerlink" title="Pigment.O"></a>Pigment.O</h2><p>krita 有一个插件拓展 <a href="https://github.com/EyeOdin/Pigment.O">Pigment.O</a> ，支持 krita 目前支持有问题的 HSV 颜色模型，在其他功能上也可以作为原始多功能拾色器的替代。</p>
+<p>在 Pigment.O 项目主页上，选择打包下载 zip 文件，之后在 krita 中选取 <em>工具 -&gt; 脚本 -&gt; 导入 Python 插件</em>，然后选中之前下载的 zip 压缩包。之后重启 krita，</p>
+<p>选择 <em>设置 -&gt; 配置 krita -&gt; Python 插件管理</em>，在插件列表中选中 Pigment.O 启用。重启 krita。</p>
+<p>之后可以在 krita 的面板上找到 krita 插件了。</p>
+<p><img src="/2021/07/24/krita-color-management/1.png"></p>
+<h2 id="HSV-颜色模型"><a href="#HSV-颜色模型" class="headerlink" title="HSV 颜色模型"></a>HSV 颜色模型</h2><p><a href="https://baike.baidu.com/item/HSV">HSV 颜色模型</a> 三个分量的意义：</p>
+<p>H（色调）</p>
+<p>S（饱和度）</p>
+<p>V（明度）</p>
+<p>个人体验是，色调决定了最后的颜色属于 <strong>红橙黄绿青蓝紫</strong> 中的哪一类，S 为颜色的饱和度，饱和度越高颜色会显得越 “浓”；最后，V 决定了颜色的亮度，当 V 为 0 时，颜色是事实上的黑色，只有 V 值足够大，色调间才能看出区别。</p>
+<p>在 Pigment.O 的面板上，可以看出这种渐变的区别。</p>
+<p><img src="/2021/07/24/krita-color-management/2.png"></p>
+]]></content>
+      <tags>
+        <tag>krita</tag>
+        <tag>色彩</tag>
+      </tags>
+  </entry>
+</search>
